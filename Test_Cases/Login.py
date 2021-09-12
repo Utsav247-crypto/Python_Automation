@@ -1,9 +1,9 @@
 from selenium import webdriver
 from Pages.LoginPage import Login
 
-class LoginTest:
+class LoginTest():
     def setup(self):
-        self.driver=webdriver.Chrome('D:/Python Automation/Drivers/Chrome/chromedriver.exe')
+        self.driver = webdriver.Chrome('D:/Python Automation/Drivers/Chrome/chromedriver.exe')
         self.driver.implicitly_wait(10)
         self.driver.maximize_window()
 

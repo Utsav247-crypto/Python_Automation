@@ -1,0 +1,39 @@
+2021-09-11 12:42:16,383 :INFO : test_username :Login Username entry pass
+2021-09-11 12:48:13,357 :INFO : test_username :Login Username entry pass
+2021-09-11 12:48:13,419 :INFO : test_password :Login Password entry pass
+2021-09-11 12:48:13,476 :INFO : test_login :Login button click is pass
+2021-09-11 12:54:20,625 :INFO : test_username :Login Username entry pass
+2021-09-11 12:54:20,690 :INFO : test_password :Login Password entry pass
+2021-09-11 12:57:16,197 :INFO : test_password :Login Password entry pass
+2021-09-11 12:57:16,245 :INFO : test_login :Login button click is pass
+2021-09-11 12:59:37,471 :INFO : test_password :Login Password entry pass
+2021-09-11 12:59:37,528 :INFO : test_login :Login button click is pass
+2021-09-11 13:00:18,905 :INFO : test_password :Login Password entry pass
+2021-09-11 13:00:18,964 :INFO : test_login :Login button click is pass
+2021-09-11 13:01:23,292 :INFO : test_password :Login Password entry pass
+2021-09-11 13:01:23,353 :INFO : test_login :Login button click is pass
+2021-09-11 13:01:56,240 :INFO : test_username :Login Username entry pass
+2021-09-11 13:01:56,307 :INFO : test_password :Login Password entry pass
+2021-09-11 13:01:56,368 :INFO : test_login :Login button click is pass
+2021-09-11 13:07:20,623 :INFO : test_password :Login Password entry pass
+2021-09-11 13:07:20,682 :INFO : test_login :Login button click is pass
+2021-09-11 13:08:03,967 :INFO : test_password :Login Password entry pass
+2021-09-11 13:08:04,021 :INFO : test_login :Login button click is pass
+2021-09-11 13:10:39,930 :INFO : test_username :Login Username entry pass
+2021-09-11 13:10:39,997 :INFO : test_password :Login Password entry pass
+2021-09-11 13:10:40,059 :INFO : test_login :Login button click is pass
+2021-09-11 13:11:09,838 :INFO : test_username :Login Username entry pass
+2021-09-11 13:11:09,900 :INFO : test_password :Login Password entry pass
+2021-09-11 13:11:09,960 :INFO : test_login :Login button click is pass
+2021-09-11 13:11:19,827 :INFO : test_usernames :Login Username entry pass
+2021-09-11 13:11:19,894 :INFO : test_passwords :Login Password entry pass
+2021-09-11 13:11:19,955 :INFO : test_logins :Login button click is pass
+2021-09-12 00:30:02,488 :INFO : test_username :Login Username entry pass
+2021-09-12 00:30:02,757 :INFO : test_password :Login Password entry pass
+2021-09-12 00:30:02,875 :INFO : test_login :Login button click is pass
+2021-09-12 00:30:46,919 :INFO : test_username :Login Username entry pass
+2021-09-12 00:30:47,130 :INFO : test_password :Login Password entry pass
+2021-09-12 00:30:52,248 :INFO : test_login :Login button click is pass
+2021-09-12 00:31:27,603 :INFO : test_username :Login Username entry pass
+2021-09-12 00:31:27,804 :INFO : test_password :Login Password entry pass
+2021-09-12 00:31:27,955 :INFO : test_login :Login button click is pass

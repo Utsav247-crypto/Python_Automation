@@ -1,0 +1,6 @@
+2021-09-11 13:18:39,422 :INFO : test_username :Login Username entry pass
+2021-09-11 13:18:39,485 :INFO : test_password :Login Password entry pass
+2021-09-11 13:18:39,548 :INFO : test_login :Login button click is pass
+2021-09-11 13:25:40,386 :INFO : test_username :Login Username entry pass
+2021-09-11 13:25:40,452 :INFO : test_password :Login Password entry pass
+2021-09-11 13:25:40,498 :INFO : test_login :Login button click is pass
